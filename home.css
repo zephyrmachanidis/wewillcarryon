@@ -1,0 +1,21 @@
+body {
+  background-image: url("waves-abstract-colorful-4k.jpg");
+}
+
+.playwrite-sk-title {
+  font-family: "Playwrite SK", serif;
+  font-optical-sizing: auto;
+  font-size: 50px;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  text-align: center;
+}
+
+.title {
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  max-width: 500px;
+  margin-top: 20%;
+}
