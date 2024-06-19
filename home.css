@@ -1,5 +1,7 @@
 body {
   background-image: url("waves-abstract-colorful-4k.jpg");
+  background-repeat: no-repeat;
+  background-position: absolute;
 }
 
 .playwrite-sk-title {
